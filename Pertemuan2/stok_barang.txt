@@ -1,0 +1,9 @@
+HLN001,Pensil,120
+HLN002,Pulpen,20
+HLN003,Buku,15
+HLN004,Chitato,20
+HLN005,Indomie,100
+HLN006,Ritz,40
+HLN007,Silverqueen,200
+HLN008,Waffel,25
+HLN010,Aqua,30
